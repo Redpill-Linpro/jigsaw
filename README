@@ -1,0 +1,7 @@
+Jigsaw is a web-application under early development.
+
+Its initial features will be:
+
+* Present pretty graphs based on metrics from OpenTSDB, offering the same level
+  of features as the Munin overview.
+
