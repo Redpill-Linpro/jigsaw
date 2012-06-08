@@ -1,0 +1,11 @@
+--- 
+tsdb_port: '4242'
+tsdb_server: <tsdbServer>
+mongodb_put_url: http://<mongoHost>:<mongoUrl>/
+munin_node: localhost
+munin_port: '4949'
+stomp_pass: <stomp user password>
+stomp_queue: <stomp queue>
+stomp_host: <stomp host>
+stomp_user: <stomp user>
+stomp_port: '6163'
